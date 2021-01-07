@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "ng-counter-example"
+  "defaultProject": "ng-counter-example",
+  "cli": {
+    "analytics": "92862713-5a37-470a-bc0d-cca902b4f7a7"
+  }
 }
